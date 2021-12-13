@@ -1,5 +1,5 @@
 # xtransaction
-distributed transaction component
+分布式一致性管理框架
 
 项目简介
 	基于Netty的高性能分布式事务框架，需要提供全局事务（强一致）。
